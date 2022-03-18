@@ -17,4 +17,4 @@ app.use('/api',require('./routes/rutas'))
 //EMPEZANDO PROYECTO
 app.listen(app.get('port'))
 
-console.log('¡MI segunda APP EN NODE!');
+//console.log('¡MI segunda APP EN NODE!');
